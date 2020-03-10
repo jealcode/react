@@ -10,6 +10,14 @@ https://es.reactjs.org/docs/getting-started.html
 Servidor == >> https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 
+clase 2
+
+revisar 
+
+https://code.visualstudio.com/docs/editor/emmet
+
+
+
 
 
 
