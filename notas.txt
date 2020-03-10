@@ -6,7 +6,10 @@ node v 13.7.0
 
 https://classroom.google.com/c/NjIzNjA1NjI3MDJa
 https://es.reactjs.org/docs/getting-started.html
-https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+Servidor == >> https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+
 
 
 
